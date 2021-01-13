@@ -8,8 +8,8 @@ client = Client(account_sid, auth_token)
 message = client.messages \
                 .create(
                      body="Hi, I am your Best friend!",
-                     from_='+18124322302',
-                     to='+918860959138'
+                     from_='Twilio-number',
+                     to='phone-number'
                  )
 
 print(message.sid)
