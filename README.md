@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MLH-LHD-Build
 ||||||| empty tree
 =======
@@ -14,3 +15,7 @@
 =======
 # groceryList
 >>>>>>> 7406be7978fe5d9cb5896ecf730d2220d3d042f4
+||||||| empty tree
+=======
+# Sentiment
+>>>>>>> efcd86f982076b344918f27327f2b10ab1c53037
