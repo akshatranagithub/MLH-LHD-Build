@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MLH-LHD-Build
 ||||||| empty tree
 =======
@@ -54,3 +55,7 @@
 =======
 # Website
 >>>>>>> 71ce648ea4ca07182aa4007d05a3b0480232da32
+||||||| empty tree
+=======
+# BrandConcept
+>>>>>>> b989f47c721de081b27986d9fc34913e683dd702
